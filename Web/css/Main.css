@@ -1,0 +1,15 @@
+.about{
+    background-image: url("images/cover.png");
+    height: 100vh;
+    background-attachment: fixed;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+}
+.about h1{
+    margin-top: 6rem;
+}
+.about button{
+    width: 10%;
+    height: 10%;
+}
